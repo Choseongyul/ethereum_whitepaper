@@ -9,7 +9,7 @@ ethereum white papaer 한글판 : https://ethereum.org/ko/whitepaper/</br>
 1998년 Wei Dai의 b-money는 탈중화 된 합의 및 계산 퍼즐을 해결함으로써 돈을 만들어내는 아이디어를 처음 제시했지만 탈중앙화를 가능하게 하는지에 대한 설명이 부족했음.</br>
 2005년 Hal Finney는 재사용 가능한 작업증명이라는 개념을 소개했음. b-money와 Adam Back의 계산적으로 어려운 해시 캐시 퍼즐을 사용하여 암호화폐에 대한 개념을 만듦. 하지만 신뢰 가능한 컴퓨팅을 백엔드로 사용한다는 점에서 한계를 가졌음.</br>
 2009년 사토시 나카모토는 공개키 암호화를 기반으로 하는 소유권 관리와 작업증명으로 알려진 소유자 추적을 위한 합의 알고리즘을 결합하여 최초로 탈중앙화 화폐를 구현함.</br>
-</br>
+<br/>
 ## 상태 전환 시스템으로써의 비트코인
 <img src="https://ethereum.org/content/whitepaper/ethereum-state-transition.png"/>
 <li>ledger : 거래를 기록하는 디지털 일지</br></li>
