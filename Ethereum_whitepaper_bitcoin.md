@@ -31,7 +31,7 @@ ethereum white papaer 한글판 : https://ethereum.org/ko/whitepaper/</br>
 <h2>채굴</h2>
 <img src="https://ethereum.org/content/whitepaper/ethereum-blocks.png" />
 비트코인의 탈중앙화 합의 프로세스는 네트워크 상의 노드들이 "블록"이라고 불리는 거래 패키지 생성을 지속적으로 시도함으로써 이루어짐. 각 블록은 타임스탬프, nonce, 이전 블록의 해시 정보, 이전 블록 이후 발생한 모든 거래 목록을 담게 됨.</br>
-이러한 블록이 쌓이면서 비트 코인 ledger의 최신 상태를 나타내기 위해 지속적으로 업데이트 되는 <p color="orange">블록체인</p>이 만들어지게 됨.</br>
+이러한 블록이 쌓이면서 비트 코인 ledger의 최신 상태를 나타내기 위해 지속적으로 업데이트 되는 블록체인이 만들어지게 됨.</br>
 </br>
 <h3>특정 블록 유효성 검증 알고리즘</h3>
 <ol>
