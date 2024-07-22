@@ -1,6 +1,5 @@
 <h1> ethereum_whitepaper 정리 </h1>
-ethereum white paper 원서 pdf : https://blockchainlab.com/pdf/Ethereum_white_paper-a_next_generation_smart_contract_and_decentralized_application_platform-vitalik-buterin.pdf</br>
-ethereum white papaer 한글판 : https://ethereum.org/ko/whitepaper/</br>
+ethereum white paper-bitcoin 파트 정리입니다.</br>
 
 <h2>history</h2>
 <li>합의 알고리즘 : 분산된 시스템 내부에서 하나의 데이터 값에 대해 사람들의 동의를 구하는 과정</br></li>
